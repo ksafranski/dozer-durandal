@@ -1,0 +1,22 @@
+{
+  "name": "DozerJS",
+  "version": "0.1.3",
+  "description": "Foundational Framework for NodeJS Web Services",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DozerJS/dozerjs.git"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "connect-multiparty": "~1.0.3",
+    "express-slash": "~1.0.0",
+    "socket.io": "~0.9.16",
+    "nedb": "~0.10.2",
+    "cli-color": "~0.2.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
